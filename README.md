@@ -1,5 +1,11 @@
+<div align="center">
+
 # Emergency-Room-Healthcare-Dashboard
+
+
 ![Logo](https://github.com/Waleed-Altaher/Power-bi-Emergency-Room-Healthcare-Dashboard/blob/main/healthcare-analytics.jpg)
+</div>
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Source](#data-source)
@@ -8,9 +14,17 @@
 - [DAX Measures](#dax-measures)
 
 ## Introduction 
+Emergency Room Dashboard provides a comprehensive overview of key performance indicators (KPIs) and patient flow within the emergency department. This interactive tool is designed to help healthcare professionals monitor and improve the efficiency and effectiveness of emergency care services.
+
+Key features of this dashboard include:
+
+Patient Visits , Average Wait Time,  Average Satisfaction, Gender Breakdown, Patient Flow per Month, Patients by Department Referral and
+Day and Time Analysis and others 
+By leveraging this dashboard, healthcare organizations can gain valuable insights into emergency department operations, identify areas for improvement, and make data-driven decisions to enhance patient care.
 
 ## Dashboard
-
+![dashboard](https://github.com/Waleed-Altaher/Power-bi-Emergency-Room-Healthcare-Dashboard/blob/main/Dashboard.gif) 
+--- 
 ## Data Source 
 
 
