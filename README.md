@@ -26,10 +26,11 @@ By leveraging this dashboard, healthcare organizations can gain valuable insight
 ![dashboard](https://github.com/Waleed-Altaher/Power-bi-Emergency-Room-Healthcare-Dashboard/blob/main/Dashboard.gif) 
 --- 
 ## Data Source 
-
+The dataset is from and hospital emergency room ,, check it out [here](https://github.com/Waleed-Altaher/Power-bi-Emergency-Room-Healthcare-Dashboard/blob/main/Hospital%20ER.csv)
 
 ## Modeling 
-
+simple modeling for simple dataset 
+![modelin](https://github.com/Waleed-Altaher/Power-bi-Emergency-Room-Healthcare-Dashboard/blob/main/modeling.png)
 ## DAX Measures 
 
 ### 1. **Average SAT Score**  
